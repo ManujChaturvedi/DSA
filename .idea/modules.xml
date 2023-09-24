@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java DSA.iml" filepath="$PROJECT_DIR$/.idea/Java DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remove Loop from Linked List/Remove Loop from Linked List.iml" filepath="$PROJECT_DIR$/Remove Loop from Linked List/Remove Loop from Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse a Stack Using  Recursion/Reverse a Stack Using  Recursion.iml" filepath="$PROJECT_DIR$/Reverse a Stack Using  Recursion/Reverse a Stack Using  Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Second Largest Element/Second Largest Element.iml" filepath="$PROJECT_DIR$/Second Largest Element/Second Largest Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trailing Zeros in Factorial/Trailing Zeros in Factorial.iml" filepath="$PROJECT_DIR$/Trailing Zeros in Factorial/Trailing Zeros in Factorial.iml" />
+    </modules>
+  </component>
+</project>
