@@ -8,7 +8,6 @@ public class Solution {
             result += Math.pow(26,len)*ascii;
             len--;
         }
-
         return result;
     }
 }
